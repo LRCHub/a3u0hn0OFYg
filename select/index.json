@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "JUMPIN’ OVER !",
+  "base_artist": "r-906",
+  "createdAt": "2026-01-01T07:55:33.110504Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "jumpin over",
+      "artist": "r-906",
+      "has_synced": false,
+      "path": "select/01_jumpin_over_r-906.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "JUMPIN' OVER !",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/02_JUMPIN'_OVER_!_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "jumpin over",
+      "artist": "more more jump",
+      "has_synced": true,
+      "path": "select/03_jumpin_over_more_more_jump.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "JUMPIN’ OVER!",
+      "artist": "r‐906",
+      "has_synced": true,
+      "path": "select/04_JUMPIN’_OVER!_r‐906.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "JUMPIN' OVER ! (feat. 花里みのり & 桐谷遥 & 桃井愛莉 & 日野森雫 & 初音ミク)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/05_JUMPIN'_OVER_!_(feat._花里みのり_&_桐谷遥_&_桃井愛莉_&_日野森雫_&_初音ミク)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "JUMPIN’ OVER !",
+      "artist": "r-906",
+      "has_synced": true,
+      "path": "select/06_JUMPIN’_OVER_!_r-906.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "JUMPIN' OVER !",
+      "artist": "r-906",
+      "has_synced": false,
+      "path": "select/pl_01_JUMPIN'_OVER_!_r-906.txt"
+    }
+  ]
+}
